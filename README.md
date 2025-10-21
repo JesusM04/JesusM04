@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**JesusM04/JesusM04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Texto Descriptivo de la Imagen](https://i.pinimg.com/736x/c4/64/2b/c4642bccd2cfea5562d80554d5ea169f.jpg)
 
-Here are some ideas to get you started:
+# *Hey, I'm Jesus!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a developer with a taste for development in Nextjs, React Native and Electron
+
+## *🔗 Connect with me*
+
+* 🌐 **Visit my personal portfolio:** [¡Click Here!](https://personal-portfolio-ivory-pi.vercel.app/)
+
+* Techstack: `.js` `.jsx` `.ts` `.tsx`
+
+### *GIT HUB STATS*
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JesusM04&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusM04&layout=compact&langs_count=10&theme=radical)

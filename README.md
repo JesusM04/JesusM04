@@ -14,5 +14,9 @@ I am a developer with a taste for development in Nextjs, React Native and Electr
 ### *GIT HUB STATS*
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JesusM04&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusM04&layout=compact&langs_count=10&theme=radical)
+##
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>

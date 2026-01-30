@@ -5,7 +5,7 @@
 
 ## *Hey, I'm Jesus!*
 
-I am a developer with a taste for development in Nextjs, React Native and Electron
+I am a developer with a like for development in Nextjs, React Native and Electron
 
 ## *🔗 Connect with me*
 
